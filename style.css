@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+#header{
+    
+    text-align: center;
+}
+#logo{
+    width: 200px;
+    height: auto;
+}
+#menu{
+    background-color: #3c0630;
+    text-align: center;
+}
+#menu li a{
+    text-decoration: none;
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+}
+#menu li {
+    text-decoration: none;
+    display: inline-block;
+   padding: 20px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    margin: 20px;
+    padding: 15px;
+}
+img{
+    display: block;
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+    padding: 50px;
+}
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
